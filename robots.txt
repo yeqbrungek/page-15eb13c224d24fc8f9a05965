@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.xn--v2ray-rz1h216rxz3akcu.com/sitemap.xml
